@@ -1,0 +1,8 @@
+{
+  "name": "abridgeer",
+  "version": "0.1.0",
+  "description": "It's simple",
+  "main": "app.js",
+  "author": "i@yukio.ru",
+  "license": "MIT"
+}

@@ -1,0 +1,2 @@
+# Abridgeer
+It's simple
